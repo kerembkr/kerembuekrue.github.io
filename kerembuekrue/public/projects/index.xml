@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About on Kerem Bükrü</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in About on Kerem Bükrü</description>
+    <title>Projects on Kerem Bükrü</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Kerem Bükrü</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/project1/</link>
@@ -51,17 +51,6 @@
 &lt;li&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/kerembuekrue/project2&#34;&gt;Project 2 Repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Feel free to explore my projects, and if you have any questions or collaboration ideas, don’t hesitate to reach out!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;    : &lt;a href=&#34;mailto:kerembuekrue@gmail.com&#34;&gt;kerembuekrue@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/kerembkr&#34;&gt;www.linkedin.com/in/kerembkr&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
