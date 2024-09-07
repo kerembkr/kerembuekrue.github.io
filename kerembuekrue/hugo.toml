@@ -1,0 +1,58 @@
+# Basic Config
+baseURL = 'https://kerembuekrue.github.io/'
+languageCode = 'en-us'
+title = 'Kerem Bükrü'
+theme = 'hugo-PaperMod'
+
+# Site Params
+[params]
+author = "Kerem Bükrü"
+description = "My research and work on Bayesian learning and quantum circuits"
+# Show estimated reading time
+ShowReadingTime = true
+# Show code copy buttons in code blocks
+ShowCopyButton = true
+# Enable Dark Mode
+themeToggle = true
+
+# Social Links (add more as needed)
+github = "https://github.com/kerembuekrue"
+linkedin = "https://www.linkedin.com/in/your-linkedin-profile/"
+
+# Enabling Open Graph Metadata (For better social media previews)
+[params.opengraph]
+description = true
+image = true
+
+[[menu.main]]
+name = "About"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+
+[[menu.main]]
+name = "CV"
+url = "/cv/"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+
+# SEO Enhancements
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+  
+[permalinks]
+post = "/:year/:month/:title/"
+  
