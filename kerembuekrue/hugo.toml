@@ -17,7 +17,7 @@ themeToggle = true
 
 # Social Links (add more as needed)
 github = "https://github.com/kerembuekrue"
-linkedin = "https://www.linkedin.com/in/your-linkedin-profile/"
+linkedin = "https://www.linkedin.com/in/kerembuekrue/"
 
 # Enabling Open Graph Metadata (For better social media previews)
 [params.opengraph]

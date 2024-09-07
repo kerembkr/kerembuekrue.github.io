@@ -15,7 +15,7 @@
       <guid>http://localhost:1313/cv/</guid>
       <description>&lt;h1 id=&#34;my-cv&#34;&gt;My CV&lt;/h1&gt;
 &lt;p&gt;Click the link below to view my CV directly in your browser:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://kerembuekrue.github.io/cv/cv.pdf&#34;&gt;View CV&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://kerembuekrue.github.io/kerembuekrue/static/cv/cv.pdf&#34;&gt;View CV&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
