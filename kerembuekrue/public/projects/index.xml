@@ -32,12 +32,9 @@ $$&lt;/p&gt;</description>
       <guid>http://localhost:1313/projects/project1/</guid>
       <description>&lt;script src=&#34;https://polyfill.io/v3/polyfill.min.js?features=es6&#34;&gt;&lt;/script&gt;
 &lt;script id=&#34;MathJax-script&#34; async src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt;&lt;/script&gt;
-&lt;h3 id=&#34;variational-quantum-circuits&#34;&gt;Variational Quantum Circuits&lt;/h3&gt;
-&lt;p&gt;Variational Quantum Circuits (VQCs) are a powerful tool in the field of quantum computing, leveraging the principles of quantum mechanics to address complex problems in machine learning and optimization. VQCs are parameterized quantum circuits that are trained using classical optimization techniques to minimize a cost function associated with the task at hand.&lt;/p&gt;
-&lt;h4 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Structure of VQCs&lt;/strong&gt;: VQCs consist of layers of quantum gates that are parameterized by angles. The output of the circuit is a quantum state that can be measured to obtain classical information.&lt;/p&gt;</description>
+&lt;h3 id=&#34;variational-quantum-linear-solver-vqls&#34;&gt;Variational Quantum Linear Solver (VQLS)&lt;/h3&gt;
+&lt;h4 id=&#34;motivation&#34;&gt;Motivation&lt;/h4&gt;
+&lt;p&gt;Solving linear systems of equations is a fundamental task in many applications, including machine learning. Given a linear system problem ( A x = b ), where ( A \in \mathbb{R}^{N \times N} ) and ( b \in \mathbb{R}^N ), the goal is to find the solution vector ( x \in \mathbb{R}^N ). Traditional methods like matrix inversion yield the solution as ( x = A^{-1} b ), but this approach has a computational complexity of ( \mathcal{O}(N^3) ), making it impractical for large ( N ).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
