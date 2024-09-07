@@ -55,4 +55,8 @@ home = ["HTML", "RSS", "JSON"]
   
 [permalinks]
 post = "/:year/:month/:title/"
-  
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

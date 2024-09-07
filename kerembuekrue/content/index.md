@@ -6,8 +6,15 @@ draft: false
 
 # About Me
 
-| ![My Photo](images/pic.jpeg) | I am a researcher currently pursuing my PhD in the fields of **Bayesian Learning** and **Quantum Circuits**. My academic journey has been driven by a fascination with the intersection of **machine learning** and **quantum computing**. <br><br>With a strong foundation in statistical methods and computational techniques, I am dedicated to exploring innovative approaches that leverage quantum technologies for solving complex problems in machine learning. My research aims to contribute to the advancement of **Bayesian Neural Networks (BNNs)** and their applications in various domains. |
-|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 28%;"><img alt="My Photo" height="250" src="images/pic.jpeg" width="2764"/></td>
+        <td style="width: 50%;">I am a researcher currently pursuing my PhD in the fields of Bayesian Learning and Quantum Circuits. 
+                                My academic journey has been driven by a fascination with the intersection of machine learning** and quantum computing. 
+                                With a strong foundation in statistical methods and computational techniques, I am dedicated to exploring innovative 
+                                approaches that leverage quantum technologies for solving complex problems in machine learning. 
+    </tr>
+</table>
 
 ## Research Interests
 

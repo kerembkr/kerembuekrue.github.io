@@ -6,62 +6,24 @@
     <description>Recent content in About on Kerem Bükrü</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description>&lt;h1 id=&#34;my-projects&#34;&gt;My Projects&lt;/h1&gt;
-&lt;p&gt;Welcome to my projects section! Here you will find a collection of my research and personal projects that focus on Bayesian learning and quantum circuits.&lt;/p&gt;
-&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;
-&lt;h3 id=&#34;project-1-variational-quantum-circuits&#34;&gt;Project 1: Variational Quantum Circuits&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This project explores the application of Variational Quantum Circuits (VQCs) for improving Bayesian Neural Networks.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, TensorFlow Quantum, Qiskit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/kerembuekrue/project1&#34;&gt;Project 1 Repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;project-2-quantum-data-analysis&#34;&gt;Project 2: Quantum Data Analysis&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A research project aimed at analyzing data using quantum algorithms to enhance performance compared to classical methods.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, Qiskit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/kerembuekrue/project2&#34;&gt;Project 2 Repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Feel free to explore my projects, and if you have any questions or collaboration ideas, don’t hesitate to reach out!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/project2/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project2/</guid>
-      <description>&lt;h1 id=&#34;my-projects&#34;&gt;My Projects&lt;/h1&gt;
-&lt;p&gt;Welcome to my projects section! Here you will find a collection of my research and personal projects that focus on Bayesian learning and quantum circuits.&lt;/p&gt;
-&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;
-&lt;h3 id=&#34;project-1-variational-quantum-circuits&#34;&gt;Project 1: Variational Quantum Circuits&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This project explores the application of Variational Quantum Circuits (VQCs) for improving Bayesian Neural Networks.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, TensorFlow Quantum, Qiskit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/kerembuekrue/project1&#34;&gt;Project 1 Repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;project-2-quantum-data-analysis&#34;&gt;Project 2: Quantum Data Analysis&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A research project aimed at analyzing data using quantum algorithms to enhance performance compared to classical methods.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, Qiskit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/kerembuekrue/project2&#34;&gt;Project 2 Repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Feel free to explore my projects, and if you have any questions or collaboration ideas, don’t hesitate to reach out!&lt;/p&gt;</description>
-    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;    : &lt;a href=&#34;mailto:kerembuekrue@gmail.com&#34;&gt;kerembuekrue@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/kerembkr&#34;&gt;www.linkedin.com/in/kerembkr&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;img alt=&#34;email image&#34; height=&#34;45&#34; src=&#34;images/email.jpg&#34; width=&#34;45&#34;/&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;mailto:kerembuekrue@gmail.com&#34;&gt;kerembuekrue@gmail.com&lt;/a&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
