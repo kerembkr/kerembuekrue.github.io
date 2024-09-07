@@ -1,3 +1,6 @@
 [submodule "kerembuekrue/themes/KeepIt"]
 	path = kerembuekrue/themes/KeepIt
 	url = https://github.com/Fastbyte01/KeepIt.git
+[submodule "kerembuekrue/themes/hugo-PaperMod"]
+	path = kerembuekrue/themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
