@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Kerem Bükrü</title>
+    <title>About on Kerem Bükrü</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Kerem Bükrü</description>
+    <description>Recent content in About on Kerem Bükrü</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
@@ -16,6 +16,56 @@
       <description>&lt;h1 id=&#34;my-cv&#34;&gt;My CV&lt;/h1&gt;
 &lt;p&gt;Click the link below to view my CV directly in your browser:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://kerembuekrue.github.io/kerembuekrue/static/cv/cv.pdf&#34;&gt;View CV&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;h1 id=&#34;my-first-blog-post&#34;&gt;My First Blog Post&lt;/h1&gt;
+&lt;p&gt;Welcome to my blog! In this post, I will share insights about the intersection of Bayesian learning and quantum circuits.&lt;/p&gt;
+&lt;h2 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Learning&lt;/strong&gt;: A robust framework for modeling uncertainty in predictions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantum Circuits&lt;/strong&gt;: Leveraging quantum mechanics to perform calculations faster than classical computers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more updates as I explore these fascinating topics!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;my-projects&#34;&gt;My Projects&lt;/h1&gt;
+&lt;p&gt;Welcome to my projects section! Here you will find a collection of my research and personal projects that focus on Bayesian learning and quantum circuits.&lt;/p&gt;
+&lt;h2 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h2&gt;
+&lt;h3 id=&#34;project-1-variational-quantum-circuits&#34;&gt;Project 1: Variational Quantum Circuits&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This project explores the application of Variational Quantum Circuits (VQCs) for improving Bayesian Neural Networks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, TensorFlow Quantum, Qiskit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/kerembuekrue/project1&#34;&gt;Project 1 Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-2-quantum-data-analysis&#34;&gt;Project 2: Quantum Data Analysis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A research project aimed at analyzing data using quantum algorithms to enhance performance compared to classical methods.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Python, Qiskit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt;: &lt;a href=&#34;https://github.com/kerembuekrue/project2&#34;&gt;Project 2 Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to explore my projects, and if you have any questions or collaboration ideas, don’t hesitate to reach out!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h3 id=&#34;customization-options&#34;&gt;Customization Options&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email Address&lt;/strong&gt;: Replace the placeholder email address with your actual email.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Form Handling&lt;/strong&gt;: Choose a form handling service (like Formspree) and configure the form accordingly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Additional Fields&lt;/strong&gt;: You can add more fields to the form if needed (e.g., subject line).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;This template provides a straightforward way for visitors to contact you, with your contact details and an optional form. Feel free to modify any part of it to better fit your style and needs! Let me know if you have any other requests!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
