@@ -3,7 +3,7 @@ baseURL = 'https://kerembuekrue.github.io/'
 languageCode = 'en-us'
 title = 'Kerem Bükrü'
 theme = 'hugo-PaperMod'
-relativeURLs = false
+relativeURLs = true
 canonifyURLs = false
 
 # Site Params
