@@ -7,7 +7,7 @@ draft: false
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 ### Quantum Kernels
-
+ 
 Quantum kernels leverage the principles of quantum computing to enhance machine learning algorithms, particularly in the context of kernel methods. The primary objective of this research project is to analyze data more efficiently using quantum algorithms compared to classical approaches.
  
 #### Key Concepts

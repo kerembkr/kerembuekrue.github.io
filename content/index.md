@@ -5,7 +5,7 @@ draft: false
 --- 
 
 # About Me
-
+ 
 <table style="width: 100%;">
     <tr>
         <td style="width: 28%;"><img alt="My Photo" height="250" src="images/pic.jpeg" width="2764"/></td>

@@ -3,7 +3,7 @@ title: "Second Blog Post"
 date: 2024-09-07
 draft: false
 ---
-
+ 
 # My Second Blog Post
 
 Welcome to my blog! In this post, I will share insights about the intersection of Bayesian learning and quantum circuits.
