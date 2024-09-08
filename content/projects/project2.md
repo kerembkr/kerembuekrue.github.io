@@ -9,7 +9,7 @@ draft: false
 ### Quantum Kernels
 
 Quantum kernels leverage the principles of quantum computing to enhance machine learning algorithms, particularly in the context of kernel methods. The primary objective of this research project is to analyze data more efficiently using quantum algorithms compared to classical approaches.
-
+ 
 #### Key Concepts
 - **Quantum Kernel Function**: The quantum kernel can be expressed as:
 

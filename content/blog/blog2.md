@@ -1,5 +1,5 @@
 ---
-title: "My Second Blog Post"
+title: "Second Blog Post"
 date: 2024-09-07
 draft: false
 ---

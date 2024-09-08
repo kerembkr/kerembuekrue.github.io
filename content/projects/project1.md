@@ -10,7 +10,7 @@ draft: false
 
 #### Motivation
 Solving linear systems of equations is a fundamental task in many applications, including machine learning. Given a linear system problem \( A x = b \), where \( A \in \mathbb{R}^{N \times N} \) and \( b \in \mathbb{R}^N \), the goal is to find the solution vector \( x \in \mathbb{R}^N \). Traditional methods like matrix inversion yield the solution as \( x = A^{-1} b \), but this approach has a computational complexity of \( \mathcal{O}(N^3) \), making it impractical for large \( N \).
-
+ 
 Quantum algorithms offer a promising alternative for large-scale computations, with some providing exponential (e.g., Shor's algorithm) or quadratic speedup (e.g., Grover's algorithm). Harrow, Hassidim, and Lloyd developed a fully quantum algorithm for solving linear systems that achieves exponential speedup, characterized by a complexity of:
 
 $$
