@@ -5,9 +5,9 @@ draft: false
 ---
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-### Quantum Kernels
  
+### Quantum Kernels
+  
 Quantum kernels leverage the principles of quantum computing to enhance machine learning algorithms, particularly in the context of kernel methods. The primary objective of this research project is to analyze data more efficiently using quantum algorithms compared to classical approaches.
  
 #### Key Concepts
