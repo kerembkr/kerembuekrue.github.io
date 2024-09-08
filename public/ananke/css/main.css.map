@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/kerembuekrue/Documents/code/kerembuekrue.github.io/kerembuekrue",
+	"sourceRoot": "/Users/kerembuekrue/Documents/code/kerembuekrue.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
