@@ -22,4 +22,4 @@ draft: false
 - **Quantum Computing** 
 - **Machine Learning** 
 
-If you have any questions or would like to discuss potential collaborations, don’t hesitate to reach out through the [Contact](https://kerembuekrue.github.io/kerembuekrue/content/contact/) page!
+If you have any questions or would like to discuss potential collaborations, don’t hesitate to reach out through the [Contact](https://kerembuekrue.github.io/content/contact/) page!
