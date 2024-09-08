@@ -12,3 +12,4 @@ Welcome to my blog, In this post, I will share insights about the intersection o
 
 - **Bayesian Learning**: A robust framework for modeling uncertainty in predictions.
 - **Quantum Circuits**: Leveraging quantum mechanics to perform calculations faster than classical computers.
+ 

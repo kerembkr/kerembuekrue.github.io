@@ -14,7 +14,7 @@ date: 2024-09-06
                                 approaches that leverage quantum technologies for solving complex problems in machine learning. 
     </tr>
 </table>
-
+ 
 ## Research Interests
 
 - **Bayesian Learning**  
