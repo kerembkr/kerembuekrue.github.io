@@ -4,7 +4,7 @@ languageCode = 'en-us'
 title = 'Kerem Bükrü'
 theme = 'hugo-PaperMod'
 relativeURLs = true
-canonifyURLs = false
+canonifyURLs = true
 
 # Site Params
 [params]
