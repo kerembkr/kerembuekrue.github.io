@@ -14,7 +14,7 @@ Quantum kernels leverage the principles of quantum computing to enhance machine 
 - **Quantum Kernel Function**: The quantum kernel can be expressed as:
 
   $$ 
-  K(x, y) = \langle \psi(x) | \psi(y) \rangle 
+  K(x, y) = \langle \psi(x) | \psi(y)  \rangle 
   $$
 
   where \(|\psi(x)\rangle\) and \(|\psi(y)\rangle\) are quantum states corresponding to the classical data points \(x\) and \(y\).

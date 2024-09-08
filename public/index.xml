@@ -9,15 +9,6 @@
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curriculum Vitae</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;h1 id=&#34;my-cv&#34;&gt;My CV&lt;/h1&gt;
-&lt;p&gt;Click the link below to view my CV directly in your browser:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://kerembuekrue.github.io/cv/cv.pdf&#34;&gt;View CV&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Quantum Kernels for Deep Gaussian Processes</title>
       <link>http://localhost:1313/projects/project2/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
@@ -31,7 +22,7 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Quantum Kernel Function&lt;/strong&gt;: The quantum kernel can be expressed as:&lt;/p&gt;
 &lt;p&gt;$$
-K(x, y) = \langle \psi(x) | \psi(y) \rangle
+K(x, y) = \langle \psi(x) | \psi(y)  \rangle
 $$&lt;/p&gt;</description>
     </item>
     <item>
@@ -44,6 +35,57 @@ $$&lt;/p&gt;</description>
 &lt;h3 id=&#34;variational-quantum-linear-solver-vqls&#34;&gt;Variational Quantum Linear Solver (VQLS)&lt;/h3&gt;
 &lt;h4 id=&#34;motivation&#34;&gt;Motivation&lt;/h4&gt;
 &lt;p&gt;Solving linear systems of equations is a fundamental task in many applications, including machine learning. Given a linear system problem ( A x = b ), where ( A \in \mathbb{R}^{N \times N} ) and ( b \in \mathbb{R}^N ), the goal is to find the solution vector ( x \in \mathbb{R}^N ). Traditional methods like matrix inversion yield the solution as ( x = A^{-1} b ), but this approach has a computational complexity of ( \mathcal{O}(N^3) ), making it impractical for large ( N ).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Blog Post</title>
+      <link>http://localhost:1313/blog/blog1/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/blog1/</guid>
+      <description>&lt;h1 id=&#34;my-first-blog-post&#34;&gt;My First Blog Post&lt;/h1&gt;
+&lt;p&gt;Welcome to my blog, In this post, I will share insights about the intersection of Bayesian learning and quantum circuits.&lt;/p&gt;
+&lt;h2 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Learning&lt;/strong&gt;: A robust framework for modeling uncertainty in predictions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantum Circuits&lt;/strong&gt;: Leveraging quantum mechanics to perform calculations faster than classical computers.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Second Blog Post</title>
+      <link>http://localhost:1313/blog/blog2/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/blog2/</guid>
+      <description>&lt;h1 id=&#34;my-second-blog-post&#34;&gt;My Second Blog Post&lt;/h1&gt;
+&lt;p&gt;Welcome to my blog, In this post, I will share insights about the intersection of Bayesian learning and quantum circuits.&lt;/p&gt;
+&lt;h2 id=&#34;key-insights&#34;&gt;Key Insights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Learning&lt;/strong&gt;: A robust framework for modeling uncertainty in predictions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantum Circuits&lt;/strong&gt;: Leveraging quantum mechanics to perform calculations faster than classical computers.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;img alt=&#34;email image&#34; height=&#34;45&#34; src=&#34;images/email.jpg&#34; width=&#34;45&#34;/&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;mailto:kerembuekrue@gmail.com&#34;&gt;kerembuekrue@gmail.com&lt;/a&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h1 id=&#34;my-cv&#34;&gt;My CV&lt;/h1&gt;
+&lt;p&gt;Click the link below to view my CV directly in Your browser:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kerembuekrue.github.io/cv/cv.pdf&#34;&gt;View CV&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

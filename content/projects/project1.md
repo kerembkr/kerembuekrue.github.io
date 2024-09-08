@@ -14,7 +14,7 @@ Solving linear systems of equations is a fundamental task in many applications, 
 Quantum algorithms offer a promising alternative for large-scale computations, with some providing exponential (e.g., Shor's algorithm) or quadratic speedup (e.g., Grover's algorithm). Harrow, Hassidim, and Lloyd developed a fully quantum algorithm for solving linear systems that achieves exponential speedup, characterized by a complexity of:
 
 $$
-\mathcal{O}\left(\log(N) s^2 \kappa^2 / \epsilon\right)
+\mathcal{O}\left(\log(N) s^2 \kappa^2 /  \epsilon\right)
 $$
 
 where \( s \) is sparsity, \( \kappa \) is the condition number, and \( \epsilon \) is the desired precision. However, this algorithm requires a quantum computer with a large number of error-corrected qubits, which is currently unattainable.

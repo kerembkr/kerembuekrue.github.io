@@ -17,8 +17,8 @@ date: 2024-09-06
 
 ## Research Interests
 
-- **Bayesian Learning**
-- **Quantum Computing** 
+- **Bayesian Learning**  
+- **Quantum Computing**  
 - **Machine Learning** 
 
 If you have any questions or would like to discuss potential collaborations, don’t hesitate to reach out through the [Contact](https://kerembuekrue.github.io/contact/) page!

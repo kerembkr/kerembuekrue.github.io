@@ -149,7 +149,7 @@ Solving linear systems of equations is a fundamental task in many applications, 
 <p>Solving linear systems of equations is a fundamental task in many applications, including machine learning. Given a linear system problem ( A x = b ), where ( A \in \mathbb{R}^{N \times N} ) and ( b \in \mathbb{R}^N ), the goal is to find the solution vector ( x \in \mathbb{R}^N ). Traditional methods like matrix inversion yield the solution as ( x = A^{-1} b ), but this approach has a computational complexity of ( \mathcal{O}(N^3) ), making it impractical for large ( N ).</p>
 <p>Quantum algorithms offer a promising alternative for large-scale computations, with some providing exponential (e.g., Shor&rsquo;s algorithm) or quadratic speedup (e.g., Grover&rsquo;s algorithm). Harrow, Hassidim, and Lloyd developed a fully quantum algorithm for solving linear systems that achieves exponential speedup, characterized by a complexity of:</p>
 <p>$$
-\mathcal{O}\left(\log(N) s^2 \kappa^2 / \epsilon\right)
+\mathcal{O}\left(\log(N) s^2 \kappa^2 /  \epsilon\right)
 $$</p>
 <p>where ( s ) is sparsity, ( \kappa ) is the condition number, and ( \epsilon ) is the desired precision. However, this algorithm requires a quantum computer with a large number of error-corrected qubits, which is currently unattainable.</p>
 <p>Today, we are in the Noisy Intermediate-Scale Quantum (NISQ) era, where a few hundred qubits with error mitigation can be utilized for small-scale quantum computations. Variational Quantum Algorithms (VQA) present promising near-term applications, combining classical and quantum algorithms to solve computational tasks.</p>
